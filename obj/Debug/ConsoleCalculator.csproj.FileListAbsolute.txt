@@ -1,0 +1,4 @@
+C:\Users\hp_notebook\Documents\Visual Studio 2012\Projects\ConsoleCalculator\ConsoleCalculator\bin\Debug\ConsoleCalculator.exe
+C:\Users\hp_notebook\Documents\Visual Studio 2012\Projects\ConsoleCalculator\ConsoleCalculator\bin\Debug\ConsoleCalculator.pdb
+C:\Users\hp_notebook\Documents\Visual Studio 2012\Projects\ConsoleCalculator\ConsoleCalculator\obj\Debug\ConsoleCalculator.exe
+C:\Users\hp_notebook\Documents\Visual Studio 2012\Projects\ConsoleCalculator\ConsoleCalculator\obj\Debug\ConsoleCalculator.pdb
